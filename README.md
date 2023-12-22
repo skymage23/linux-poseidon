@@ -4,7 +4,7 @@ A series of patches against Vanilla Linux Stable to establish the same or simila
 ### Supported Upstream Kernel Version: v6.6.8
 
 # Before you begin:
-#### Having at least 5 GB of accessible, usable, space is mandatory for this project.
+#### Having at least 32 GB of accessible, usable, space is mandatory for this project.
 #### Even then, I would say you should double that just to be safe.
 
 # What you will need:
